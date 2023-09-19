@@ -25,9 +25,6 @@ status-website:
   name: "AI Smartsheets Status Page"
   introTitle: "AI Smartsheets website statuses"
   introMessage: ""
-  navbar:
-    - title: Status
-      href: /
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
