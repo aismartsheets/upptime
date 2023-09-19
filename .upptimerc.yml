@@ -13,6 +13,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: night
+  favicon: https://www.ai-sheets.com/images/favicon.png
   baseUrl: /upptime
   logoUrl: https://www.ai-sheets.com/images/ai-logo-v2.png
   name: AI Smartsheets Status Page
