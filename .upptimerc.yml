@@ -11,10 +11,9 @@ sites:
     url: http://20.165.38.39:8080/
 
 notifications:
-  - type: email
-    NOTIFICATION_EMAIL: true
-    NOTIFICATION_EMAIL_FROM: admin@aismartsheets.com
-    NOTIFICATION_EMAIL_TO: admin@aismartsheets.com
+  NOTIFICATION_EMAIL: true
+  NOTIFICATION_EMAIL_FROM: admin@aismartsheets.com
+  NOTIFICATION_EMAIL_TO: admin@aismartsheets.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -23,7 +22,7 @@ status-website:
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/aismartsheets/upptime/master/assets/ai-logo-v2.png
   name: "AI Smartsheets Status Page"
-  introTitle: "AI Smartsheets website statuses"
+  introTitle: "AI Smartsheets Statuses"
   introMessage: ""
 
 # Upptime also supports notifications, assigning issues, and more
