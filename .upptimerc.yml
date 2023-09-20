@@ -10,14 +10,10 @@ sites:
   - name: McNeely Dashboard
     url: http://20.165.38.39:8080/
 
-notifications:
-  NOTIFICATION_EMAIL: true
-  NOTIFICATION_EMAIL_FROM: admin@aismartsheets.com
-  NOTIFICATION_EMAIL_TO: admin@aismartsheets.com
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
+  theme: dark
   favicon: https://raw.githubusercontent.com/aismartsheets/upptime/master/assets/favicon.png
   baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/aismartsheets/upptime/master/assets/ai-logo-v2.png
