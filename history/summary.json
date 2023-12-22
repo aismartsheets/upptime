@@ -22,7 +22,7 @@
     "url": "https://www.ai-sheets.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.ai-sheets.com.ico",
     "slug": "ai-smartsheets",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 523,
     "timeMonth": 536,
     "timeYear": 561,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-22": 0
+    }
   },
   {
     "name": "McNeely Dashboard",
