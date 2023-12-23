@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.ai-sheets.com.ico",
     "slug": "ai-smartsheets",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
-    "time": 560,
-    "timeDay": 507,
-    "timeWeek": 514,
-    "timeMonth": 533,
-    "timeYear": 560,
-    "dailyMinutesDown": {
-      "2023-12-22": 11
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 559,
+    "timeDay": 457,
+    "timeWeek": 507,
+    "timeMonth": 526,
+    "timeYear": 559,
+    "dailyMinutesDown": {}
   },
   {
     "name": "McNeely Dashboard",
@@ -49,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 55,
-    "timeDay": 74,
+    "timeDay": 67,
     "timeWeek": 68,
-    "timeMonth": 60,
+    "timeMonth": 61,
     "timeYear": 55,
     "dailyMinutesDown": {}
   }
